@@ -25,7 +25,6 @@ public class HelloApplication extends Application {
         // Mostrar el resultado de la suma y division
         System.out.println("The sum is => " + numero1 + " y " + numero2 + " es: " + suma);
         System.out.println("The divtion is => " + numero1 + " and " + numero2 + " is: " + divit);
-        System.out.println("The product is => " + (numero1 * numero2));
         // Cerrar el scanner
         scanner.close();
     }
